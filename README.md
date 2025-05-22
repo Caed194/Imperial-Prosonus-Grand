@@ -6,7 +6,7 @@
 - This soundfont is under CC-BY-1.0, meaning you can use this soundfont for any sort of use, whether it be compositions, personal use, etc., but please make sure to give credit if applicable by stating:
 
 "This soundfont is a soundfont made by FWRaven/Caed. You can find it here: https://github.com/Caed194/Imperial-Prosonus-Grand"
-
+[this is not required, but you can link my youtube channel (https://www.youtube.com/@FWRaven979), but if you do, it will be appreciated :) ]
 
 
 Features:
