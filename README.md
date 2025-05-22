@@ -17,6 +17,8 @@ Features:
 - Samples are 44.1 KHz
 - Most presets has 17 velocity layers via filtering, except for the "One Layer/Velocity Layer" presets
 
+Soundfont is nearly 500 MB umcompressed
+
 Any questions/feedback/requests, please reach out to me via email at: caedgmbackup@gmail.com
 
 Thanks for checking this soundfont out, hopefully you'll enjoy it! :)
