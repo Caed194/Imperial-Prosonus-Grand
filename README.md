@@ -15,7 +15,7 @@ Features:
 - Contains a Normal System and a Reverb System
 - Grand total of 20 presets (my first sfz instrument, so there isn't as much presets)
 - Samples are 44.1 KHz
-- Most presets has 17 velocity layers via filtering, except for the "One Layer/Velocity Layer" presets
+- Most presets has 18 velocity layers via filtering, except for the "One Layer/Velocity Layer" presets
 
 Soundfont is nearly 500 MB umcompressed
 
